@@ -8,3 +8,6 @@ torch>=1.7
 torchvision
 tqdm
 opencv-contrib-python
+libgl1-mesa-glx
+mesa-libGL
+xvfb
